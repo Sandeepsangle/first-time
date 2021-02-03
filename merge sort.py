@@ -42,18 +42,6 @@ def mergesort(lst):
             j=j+1
             k=k+1
 
-'''
-output
-enter the array size7
-enter the element32
-enter the element23
-enter the element43
-enter the element34
-enter the element54
-enter the element76
-enter the element67
-[23, 32, 34, 43, 54, 67, 76]
-'''
              
                 
             
@@ -70,5 +58,18 @@ for i in range(0,n):
 mergesort(lst)
 print(lst)
 
+
+'''
+output
+enter the array size7
+enter the element32
+enter the element23
+enter the element43
+enter the element34
+enter the element54
+enter the element76
+enter the element67
+[23, 32, 34, 43, 54, 67, 76]
+'''
 
 
